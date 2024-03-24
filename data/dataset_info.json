@@ -262,6 +262,16 @@
   "ultrachat_de": {
     "hf_hub_url": "mayflowergmbh/ultra-chat_de"
   },
+  "gec": {
+  "file_name": "gec.json",
+  "columns": {
+    "prompt": "instruction",
+    "query": "input",
+    "response": "output",
+    "system": "system",
+    "history": "history"
+    }
+  },
   "hh_rlhf_en": {
     "script_url": "hh_rlhf_en",
     "columns": {
